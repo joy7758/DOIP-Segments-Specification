@@ -19,20 +19,25 @@
       "const": "0.DOIP/Op.Retrieve",
       "description": "operationId: the identifier of the operation to be performed."
     },
-   "attributes": {
-      "type": "object",
+    "attributes": {
+        "type": "object",
+        "properties": {
+          "element": {
+            "type": "string",
+            "description": "If specified, retrieves the data for that element."
+          },
+        "includeElementData": {
+            "type": "boolean",
+            "description": "If present (true), returns the serialization of the DO including all element data."
+          }
+      },
+      "additionalProperties": false,
+      "minProperties": 1,
       "anyOf": [
-        {
-          "properties": { "element": { "type": "string" } },
-          "required": ["element"],
-          "additionalProperties": false
-        },
-        {
-          "properties": { "includeElementData": { "type": "boolean", "default": false } },
-          "required": ["includeElementData"],
-          "additionalProperties": false
-        }
-      ]
+        { "required": ["element"] },
+        { "required": ["includeElementData"] }
+      ],
+      "description": "Optional request attributes for 0.DOIP/Op.Retrieve; at least one of 'element' or 'includeElementData' must be present."
     },
     "authentication": {
       "type": "object",
