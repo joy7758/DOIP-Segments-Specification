@@ -40,7 +40,7 @@ listOperations
 
 The core innovation is the transformation of passive data segments into "Active Digital Objects" capable of self-description. This allows network nodes to function as Deterministic Finite Automata (DFA), enforcing sovereignty rules based on the tuple:
 
-$$ \Psi(S_{header}, N_{context}) \rightarrow \{FORWARD, DROP, INSPECT, ENCRYPT\} $$
+$$ \Psi(S_{\text{header}}, N_{\text{context}}) \rightarrow \{ \text{FORWARD}, \text{DROP}, \text{INSPECT}, \text{ENCRYPT} \} $$
 
 Where:
 *   $S_{header}$ contains the immutable governance metadata (Sensitivity Level, Policy ID).
