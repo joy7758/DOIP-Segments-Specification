@@ -65,3 +65,7 @@ This repository implements Standard Domain `RR-DOIP` under the RedRock Constitut
 Central Governance Hub:
 https://github.com/joy7758/RedRock-Constitution
 
+## Onepager / 一页纸
+
+- `RR-DOIP` Onepager / 一页纸：`docs/onepager/RR-DOIP_ONEPAGER_CN_EN.md`
+- Hub / 总入口：https://github.com/joy7758/RedRock-Constitution
