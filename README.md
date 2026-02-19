@@ -39,3 +39,17 @@ The specification includes the following basic operations: hello, create, access
 将创建并上传除 JSON 之外的其他序列化格式。
 - The segments might be registered in the [type registry](https://typeregistry.lab.pidconsortium.net) and the Json schemas will then be derived from those definitions.
 这些分段可能会在 [类型注册表](https://typeregistry.lab.pidconsortium.net) 中注册，届时 JSON 模式将源自这些定义。
+
+---
+
+## Belongs to RedRock Constitution / 隶属于红岩宪章体系
+
+This repository is part of the RedRock Constitution architecture framework.
+
+Please start from the central governance hub:
+
+https://github.com/joy7758/RedRock-Constitution
+
+本仓库属于红岩宪章体系，请从总入口开始阅读与理解：
+
+https://github.com/joy7758/RedRock-Constitution
