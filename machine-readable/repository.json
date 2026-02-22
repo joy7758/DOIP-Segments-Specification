@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-02-22T14:59:54Z",
+  "repository": "DOIP-Segments-Specification",
+  "standard_id": "RR-DOIP",
+  "status": "Draft",
+  "summary_en": "Segment schemas and interoperability assets for Digital Object Interface Protocol.",
+  "summary_cn": "数字对象接口协议（DOIP）的分段模式与互操作资产。",
+  "github_url": "https://github.com/joy7758/DOIP-Segments-Specification",
+  "governance_hub": "https://github.com/joy7758/RedRock-Constitution",
+  "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-doip",
+  "repos_index_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/REPOS_INDEX_CN_EN.md",
+  "ecosystem_graph_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/ECOSYSTEM_GRAPH_CN_EN.md",
+  "quality_workflow": "https://github.com/joy7758/DOIP-Segments-Specification/actions/workflows/quality-baseline.yml",
+  "keywords": [
+    "doip",
+    "pid",
+    "interoperability",
+    "schema",
+    "fair-digital-object"
+  ],
+  "language_support": [
+    "zh-CN",
+    "en"
+  ],
+  "related_repositories": [
+    {
+      "name": "pFDO-Specification",
+      "url": "https://github.com/joy7758/pFDO-Specification",
+      "standard_id": "RR-pFDO"
+    },
+    {
+      "name": "AASP-Core",
+      "url": "https://github.com/joy7758/AASP-Core",
+      "standard_id": "RR-AASP"
+    },
+    {
+      "name": "China-Precision-Mold-FDO-Standard",
+      "url": "https://github.com/joy7758/China-Precision-Mold-FDO-Standard",
+      "standard_id": "RR-CPM"
+    },
+    {
+      "name": "RedRock-Constitution",
+      "url": "https://github.com/joy7758/RedRock-Constitution",
+      "standard_id": "RR-CORE"
+    }
+  ]
+}

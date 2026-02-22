@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "DOIP-Segments-Specification"
+type: software
+authors:
+  - family-names: "Zhang"
+    given-names: "Bin"
+repository-code: "https://github.com/joy7758/DOIP-Segments-Specification"
+url: "https://github.com/joy7758/DOIP-Segments-Specification"
+abstract: "Segment schemas and interoperability assets for Digital Object Interface Protocol."
+keywords:
+  - doip
+  - pid
+  - interoperability
+  - schema
+  - fair-digital-object
