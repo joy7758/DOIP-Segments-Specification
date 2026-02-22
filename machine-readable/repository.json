@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-02-22T14:59:54Z",
+  "generated_at": "2026-02-22T15:08:15+00:00",
   "repository": "DOIP-Segments-Specification",
   "standard_id": "RR-DOIP",
   "status": "Draft",
@@ -44,5 +44,23 @@
       "url": "https://github.com/joy7758/RedRock-Constitution",
       "standard_id": "RR-CORE"
     }
-  ]
+  ],
+  "discoverability": {
+    "version": "1.0.0",
+    "readme_section": "Discoverability Snapshot / 检索曝光摘要",
+    "keywords_density_target": "5-10 high-signal keywords in top README section",
+    "search_phrases_en": [
+      "DOIP-Segments-Specification RR-DOIP open standard",
+      "DOIP-Segments-Specification doip pid github",
+      "RR-DOIP doip reference implementation"
+    ],
+    "search_phrases_cn": [
+      "DOIP-Segments-Specification RR-DOIP 标准 规范",
+      "DOIP-Segments-Specification doip pid 仓库",
+      "RR-DOIP 参考实现 红岩 宪章"
+    ],
+    "onepager": "https://github.com/joy7758/DOIP-Segments-Specification/blob/main/docs/onepager/RR-DOIP_ONEPAGER_CN_EN.md",
+    "citation_file": "CITATION.cff",
+    "security_file": "SECURITY.md"
+  }
 }
