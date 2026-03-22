@@ -1,13 +1,7 @@
 <!-- language-switch:start -->
-<p>
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/English-Current-1f883d?style=for-the-badge" alt="English">
-  </a>
-  <a href="./README.zh-CN.md">
-    <img src="https://img.shields.io/badge/Chinese-Switch-0f172a?style=for-the-badge" alt="Chinese">
-  </a>
-</p>
+[English](./README.md) | [中文](./README.zh-CN.md)
 <!-- language-switch:end -->
+
 # DOIP Segments Specification
 
 Schema and interoperability assets for Digital Object Interface Protocol segments.
@@ -19,8 +13,3 @@ Schema and interoperability assets for Digital Object Interface Protocol segment
 - [Machine-readable metadata](./machine-readable/repository.json)
 - [Security policy](./SECURITY.md)
 - [Citation metadata](./CITATION.cff)
-
-## Language
-
-- Chinese intro: [README.zh-CN.md](./README.zh-CN.md)
-- This landing page stays English-only to avoid mixed-language presentation.
